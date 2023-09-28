@@ -23,14 +23,13 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/amoghsawant17/Excel-Sales_Analytics/blob/main/P%20%26%20L%20For%20Markets.pdf)_
 
-- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of finance analytics:** Finance analytics provides data-driven insights to optimize financial decisions, manage risks, improve budgeting and forecasting accuracy, and drive overall financial health and growth for a business.
+- **Importance of analyzing Finance data:** Analyzing finance data drives informed financial decisions, cost optimization, and risk management for sustainable business growth. It facilitates budgeting, forecasting, and strategic planning, ensuring financial health and stability.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Finance reports provide a snapshot of financial health, aiding in quick decision-making and strategy alignment. They track financial performance, analyze trends, and assist stakeholders in understanding the company's fiscal position.
 
 
-## Technical & Soft Skills:
+## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
