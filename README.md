@@ -30,15 +30,19 @@
 
 
 ## Technical Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+- [x] Proficiency in ETL methodology (Extract, Transform, Load) using Power Query to easily connect, and import data from various sources into Excel. This includes cleaning, and transforming data to make it suitable for analysis.
+- [x] Ability to create dynamic pivot tables for summarizing and analyzing large sets of data. This skill includes sorting, filtering, and displaying data in a visually insightful manner.
+- [x] Competence in leveraging Power Pivot, to create sophisticated data models by importing and relating large volumes of data from different sources. 
+- [x] Proficiency in using DAX, to create custom formulas for advanced calculations, measures, and metrics within Power Pivot. DAX enables complex analysis and enhances the functionality of the data model.
+- [x] Skill in enriching an existing data model by incorporating supplementary data, either from Excel or external sources, establishing relationships to provide a more comprehensive view for analysis.
+- [x] Ability to effectively visualize insights derived from data using Excel's visualization features, integrating Power Pivot and Pivot Table outputs for a clear understanding of sales and finance trends.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Designing empathetic user-centric reports for both technical and non-technical stakeholders.
+- [x] Capacity to analyze complex problems, evaluate alternatives, and make informed decisions.
+- [x] Efficient allocation and management of time and resources to meet project deadlines and deliver high-quality analyses.
+- [x]	Designing empathetic user-centric reports.
+- [x] Willingness to adapt to evolving project requirements, and changing data landscapes.
+- [x] Demonstrating flexibility and continuous learning to enhance project performance.
+- [x] Diligence in maintaining accuracy and precision in data analysis, model development, and reporting.
+
