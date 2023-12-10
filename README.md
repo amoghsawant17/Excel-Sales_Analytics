@@ -1,9 +1,10 @@
 # Excel-Sales_Finance_Analytics
 
+## Overview:
+This project showcases my expertise in leveraging Excel for Sales and Finance Analytics, employing advanced techniques such as ETL methodology, Power Query, Power Pivot, and Data Analysis Expressions (DAX). The objective is to provide comprehensive insights into customer performance, market comparisons, and financial health through dynamic reports.
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
 
-## Sales Report :
-
+## Sales Report:
 
 - **Project objective:** 
 
@@ -18,7 +19,7 @@
 - **Role of reports:** Sales reports provide real-time insights into sales performance, aiding in immediate decision-making and strategy adjustments. They track progress toward targets, identify sales trends,  determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries for increased efficiency and revenue.
 
 
-## Finance Report :
+## Finance Report:
 
 - **Project objective:** 
 
@@ -44,8 +45,6 @@
 - [x]	Designing empathetic user-centric reports for both technical and non-technical stakeholders.
 - [x] Capacity to analyze complex problems, evaluate alternatives, and make informed decisions.
 - [x] Efficient allocation and management of time and resources to meet project deadlines and deliver high-quality analyses.
-- [x]	Designing empathetic user-centric reports.
 - [x] Willingness to adapt to evolving project requirements, and changing data landscapes.
 - [x] Demonstrating flexibility and continuous learning to enhance project performance.
-- [x] Diligence in maintaining accuracy and precision in data analysis, model development, and reporting.
 
