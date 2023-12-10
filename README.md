@@ -33,18 +33,11 @@ This project showcases my expertise in leveraging Excel for Sales and Finance An
 - **Role of reports:** Finance reports provide a snapshot of financial health, aiding in quick decision-making and strategy alignment. They track financial performance, analyze trends, and assist stakeholders in understanding the company's fiscal position.
 
 
-## Technical Skills:
-- [x] Proficiency in ETL methodology (Extract, Transform, Load) using Power Query to easily connect, and import data from various sources into Excel. This includes cleaning, and transforming data to make it suitable for analysis.
-- [x] Ability to create dynamic pivot tables for summarizing and analyzing large sets of data. This skill includes sorting, filtering, and displaying data in a visually insightful manner.
-- [x] Competence in leveraging Power Pivot, to create sophisticated data models by importing and relating large volumes of data from different sources. 
-- [x] Proficiency in using DAX, to create custom formulas for advanced calculations, measures, and metrics within Power Pivot. DAX enables complex analysis and enhances the functionality of the data model.
-- [x] Skill in enriching an existing data model by incorporating supplementary data, either from Excel or external sources, establishing relationships to provide a more comprehensive view for analysis.
-- [x] Ability to effectively visualize insights derived from data using Excel's visualization features, integrating Power Pivot and Pivot Table outputs for a clear understanding of sales and finance trends.
-
-## Soft Skills:
-- [x]	Designing empathetic user-centric reports for both technical and non-technical stakeholders.
-- [x] Capacity to analyze complex problems, evaluate alternatives, and make informed decisions.
-- [x] Efficient allocation and management of time and resources to meet project deadlines and deliver high-quality analyses.
-- [x] Willingness to adapt to evolving project requirements, and changing data landscapes.
-- [x] Demonstrating flexibility and continuous learning to enhance project performance.
+## Things that I learned from this Project
+- [x] I studied and implemented the ETL methodology (Extract, Transform, Load) using Power Query to easily connect, and import data from various sources into Excel. This includes cleaning, and transforming data to make it suitable for analysis.
+- [x] I created dynamic pivot tables for summarizing and analyzing large sets of data. This skill includes sorting, filtering, and displaying data in a visually insightful manner.
+- [x] I learned DAX, to create custom formulas for advanced calculations, measures, and metrics within Power Pivot. DAX enables complex analysis and enhances the functionality of the data model.
+- [x] I gained skill in enriching an existing data model by incorporating supplementary data, either from Excel or external sources, establishing relationships to provide a more comprehensive view for analysis.
+- [x]	I have tried to design empathetic user-centric reports for both technical and non-technical stakeholders.
+- [x]	I tried to adapt to evolving project requirements and changing data landscapes.
 
