@@ -1,4 +1,4 @@
-# Excel-Sales_Finance_Analytics
+# Sales and Finance Analytics - Excel
 
 ## Overview:
 This project showcases my expertise in leveraging Excel for Sales and Finance Analytics, employing advanced techniques such as ETL methodology, Power Query, Power Pivot, and Data Analysis Expressions (DAX). The objective is to provide comprehensive insights into customer performance, market comparisons, and financial health through dynamic reports.
