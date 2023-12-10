@@ -1,16 +1,15 @@
 # Excel-Sales_Finance_Analytics
 
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
-- Link to [Presentation Video]()
 
 ## Sales Report :
 
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/amoghsawant17/Excel-Sales_Analytics/blob/main/Customer_Performance_Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/amoghsawant17/Excel-Sales_Finance_Analytics/blob/main/Sales%20Reports/Customer_Performance_Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/amoghsawant17/Excel-Sales_Analytics/blob/main/Market_Performance_Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/amoghsawant17/Excel-Sales_Finance_Analytics/blob/main/Sales%20Reports/Market_Performance_Report.pdf)_
 
 - **Purpose of sales analytics:** The purpose of sales analytics is to leverage data and analytical tools to gain valuable insights into sales performance, customer behavior, and market trends. 
 
@@ -23,9 +22,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/amoghsawant17/Excel-Sales_Analytics/blob/main/P%20%26%20L_by_Fiscal_years.pdf)_ & _[Months](https://github.com/amoghsawant17/Excel-Sales_Analytics/blob/main/P%20%26%20L_by_Fiscal_months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/amoghsawant17/Excel-Sales_Finance_Analytics/blob/main/Finance%20Reports/P%20%26%20L_by_Fiscal_years.pdf)_ & _[Months](https://github.com/amoghsawant17/Excel-Sales_Finance_Analytics/blob/main/Finance%20Reports/P%20%26%20L_by_Fiscal_months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/amoghsawant17/Excel-Sales_Analytics/blob/main/P%20%26%20L%20For%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/amoghsawant17/Excel-Sales_Finance_Analytics/blob/main/Finance%20Reports/P%20%26%20L%20For%20Markets.pdf)_
 
 - **Purpose of finance analytics:** Finance analytics provides data-driven insights to optimize financial decisions, manage risks, improve budgeting and forecasting accuracy, and drive overall financial health and growth for a business.
 - **Importance of analyzing Finance data:** Analyzing finance data drives informed financial decisions, cost optimization, and risk management for sustainable business growth. It facilitates budgeting, forecasting, and strategic planning, ensuring financial health and stability.
