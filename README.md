@@ -38,3 +38,11 @@
 - [x]	I have tried to design empathetic user-centric reports for both technical and non-technical stakeholders.
 - [x]	I tried to adapt to evolving project requirements and changing data landscapes.
 
+## Key Insights from this Project
+- From the Customer Performance Report, we can see that the top/ bottom customers according to Net Sales % growth.
+- From the Market Performance Report, we can see that Japan has the lowest % variance to the target and that Poland has the highest % variance to the target.
+- In terms of net sales % growth for 2021, we can see the product "AQ Mx NB" tops the list among the top 10 products.
+- From the Division level report, we can see that the "PC" division has reported the highest Net Sales % growth of 313 % for the year 2021.
+- "AQ Master wired x1 Ms" is the highest-sold product with a volume of 4.2 million quantity and "AQ HOME Allin1 Gen 2"  is the lowest-sold product with a volume of 8900 quantity.
+- 
+
