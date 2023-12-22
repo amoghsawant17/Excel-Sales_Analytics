@@ -48,7 +48,7 @@
 - In 2021, the highest net sales were reported by India and it tops the list of top 5 countries based on net sales performance.
 - From the P & L fiscal year report, we can see that the Net Sales, Cost of Goods Sold (COGS), and Gross Margin have increased significantly between 2019 and 2021 but the Gross Margin % has decreased from 41.4 % in 2019 to 36.4% in 2021.
 - On Quarter-on-quarter performance, we can see that the Net Sales, Gross Margin, and Gross Margin % were higher in October, November, and December months compared to the rest of the months between 2019 and 2021.
-- Net sales % growth was 204 % in 2020-2021 and it was 124 % in 2019-2020.
+- Overall the Net sales % growth was 204 % in 2020-2021 and it was 124 % in 2019-2020.
 - In terms of Gross Margin % performance, New Zealand reported the highest Gross Margin % of 48.2 % and Germany reported the lowest Gross Margin % of 26.2 %.
 - In 2020, sub-zones such as "ANZ" and "NA" have reported higher Gross Margin % performance compared to the rest of the sub-zones.
 - In 2021, sub-zones such as "ROA" and "SE" have reported higher Gross Margin % performance compared to the rest of the sub-zones.
