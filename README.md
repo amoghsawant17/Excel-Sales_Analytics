@@ -46,7 +46,7 @@
 - "AQ Master wired x1 Ms" is the highest-sold product with a volume of 4.2 million quantity and "AQ HOME Allin1 Gen 2"  is the lowest-sold product with a volume of 8900 quantity.
 - In 2021, the product named "AQ Qwerty" reported the highest net sales of 22 million $ and the product named "AQ Marquee P4" reported the lowest net sales of 1.7 million $.
 - In 2021, the highest net sales were reported by India and it tops the list of top 5 countries based on net sales performance.
-- From the P & L fiscal year report, we can see that the Net Sales, Cost of Goods Sold (COGS), and Gross Margin have increased significantly between 2019 to 2021 but the Gross Margin % has decreased from 41.4 % in 2019 to 36.4% in 2021.
+- From the P & L fiscal year report, we can see that the Net Sales, Cost of Goods Sold (COGS), and Gross Margin have increased significantly between 2019 and 2021 but the Gross Margin % has decreased from 41.4 % in 2019 to 36.4% in 2021.
 - On Quarter-on-quarter performance, we can see that the Net Sales, Gross Margin, and Gross Margin % were higher in October, November, and December months compared to the rest of the months between 2019 and 2021.
 - Net sales % growth was 204 % in 2020-2021 and it was 124 % in 2019-2020.
 - In terms of Gross Margin % performance, New Zealand reported the highest Gross Margin % of 48.2 % and Germany reported the lowest Gross Margin % of 26.2 %.
