@@ -40,7 +40,7 @@
 
 ## Key Insights from this Project
 - From the Customer Performance Report, we can see that the top/ bottom customers according to Net Sales % growth.
-- From the Market Performance Report, we can see that Japan has the lowest % variance to the target and that Poland has the highest % variance to the target.
+- From the Market Performance Report, we can see that in 2021, Japan has the lowest Net Sales % variance to the target which means Japan performed better compared to its peers in achieving the targets and Poland has the highest Net Sales % variance which means Poland fell short of achieving the targets.
 - In terms of net sales % growth for 2021, we can see the product "AQ Mx NB" tops the list among the top 10 products.
 - From the Division level report, we can see that the "PC" division has reported the highest Net Sales % growth of 313 % for the year 2021.
 - "AQ Master wired x1 Ms" is the highest-sold product with a volume of 4.2 million quantity and "AQ HOME Allin1 Gen 2"  is the lowest-sold product with a volume of 8900 quantity.
